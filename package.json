@@ -1,0 +1,20 @@
+{
+  "name": "hocuspocus-railway-template",
+  "version": "4.7.0",
+  "private": true,
+  "type": "module",
+  "description": "Hocuspocus collaboration server with JWT auth and SQLite storage, for the Railway template",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@hocuspocus/extension-logger": "4.7.0",
+    "@hocuspocus/extension-sqlite": "4.7.0",
+    "@hocuspocus/extension-webhook": "4.7.0",
+    "@hocuspocus/server": "4.7.0",
+    "jose": "6.2.12",
+    "yjs": "13.6.33"
+  },
+  "license": "MIT"
+}
