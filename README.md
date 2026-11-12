@@ -1,5 +1,7 @@
 # Deploy and Host Hocuspocus on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/hocuspocus?utm_medium=integration&utm_source=button&utm_campaign=hocuspocus)
+
 Hocuspocus is a WebSocket backend for Y.js, the CRDT library behind many collaborative editors. It syncs shared documents between clients in real time, merges offline edits without conflicts and stores the result. It is made by the Tiptap team and works with Tiptap, BlockNote, Lexical, CodeMirror and any other Y.js binding.
 
 ## About Hosting Hocuspocus
